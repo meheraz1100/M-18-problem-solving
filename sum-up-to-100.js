@@ -21,3 +21,4 @@ while(sum+i <= 100){
     console.log(i);
 }
 console.log(sum);
+
