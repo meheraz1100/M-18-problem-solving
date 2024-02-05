@@ -31,3 +31,4 @@ for(let i = 51; i <= 85; i=i+2) {
     console.log(i);
 }
 console.log("sum of all the even numbers " + sum2);
+
